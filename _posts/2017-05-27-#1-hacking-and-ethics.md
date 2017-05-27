@@ -1,14 +1,16 @@
 ---
 published: true
 ---
+WannaCry Ransomware
+================
 # WannaCry ransomware attack #
 
-### Introduction
+### Introduction ###
 A ransomware computerworm called WannaCrypt, dubbed WannaCry recently 
-### Technical Analysis
+### Technical Analysis ###
 
-### Ethical Aspects
+### Ethical Aspects ###
 
-### Mitigation Procedures 
+### Mitigation Procedures ###
 
-### Impact of the attack.
+### Impact of the attack. ###
