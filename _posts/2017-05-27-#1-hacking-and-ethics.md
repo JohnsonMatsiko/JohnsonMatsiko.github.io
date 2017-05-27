@@ -35,7 +35,9 @@ Hackers should be guided by simple societal values like respect to privacy, trus
 
 Mitigation Procedures
 ---------------------
+
 •	Disable SMBv1 and SMBv3 so as to stop the worm. Disabling SMB blocks access to shared files and data. So the benefits of mitigation should be weighed against potential disruption to users. 
+
 •	Do not pay the ransom as there is no guarantee that the data will be recovered. 
 
 The general public is advised to follow the below practices in order to protect themselves; 
@@ -49,10 +51,4 @@ Impact of the attack.
 This attack should be seen as a wake-up call. With the daily advancement of technology, it’s going to be increasingly super hard to keep track of vulnerabilities. If this trend isn’t closely checked, It’s much possible that terrorists can muster up a lasting cyber attack. 
 
 
-### Technical Analysis ###
 
-### Ethical Aspects ###
-
-### Mitigation Procedures ###
-
-### Impact of the attack. ###
