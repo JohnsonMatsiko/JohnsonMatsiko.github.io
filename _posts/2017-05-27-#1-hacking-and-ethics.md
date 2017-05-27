@@ -8,6 +8,7 @@ Introduction
 ------------
 
 A ransomware computerworm called WannaCrypt, dubbed WannaCry recently 
+
 ### Technical Analysis ###
 
 ### Ethical Aspects ###
