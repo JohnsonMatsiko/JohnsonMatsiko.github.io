@@ -11,4 +11,4 @@ I underwent a 3 months IT internship programme with Advocates Coalition for Deve
 
 My current position as IT technician for Pioneer Easy Bus has introduced me to newer systems like camera surveillance and Fleet Management Systems. This has broadened my reach as an IT personnel, and has enabled me to be in a position to raise workable solutions in bus routing and increase of revenue for the company.
 
-[email@domain.com](mailto:email@domain.com)
+[johnsonmatsiko@gmail.com](mailto:email@domain.com)
