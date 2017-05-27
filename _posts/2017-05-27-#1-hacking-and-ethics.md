@@ -4,7 +4,9 @@ published: true
 WannaCry Ransomware Attack 
 =========================
 
-### Introduction ###
+Introduction 
+------------
+
 A ransomware computerworm called WannaCrypt, dubbed WannaCry recently 
 ### Technical Analysis ###
 
