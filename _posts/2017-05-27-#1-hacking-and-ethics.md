@@ -1,9 +1,8 @@
 ---
 published: true
 ---
-WannaCry Ransomware
-================
-# WannaCry ransomware attack #
+WannaCry Ransomware Attack 
+=========================
 
 ### Introduction ###
 A ransomware computerworm called WannaCrypt, dubbed WannaCry recently 
