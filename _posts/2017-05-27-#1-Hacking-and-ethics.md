@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# Hacking and Ethics
-
 ## WannaCry ransomware attack
 
 A ransomware computerworm called WannaCrypt, dubbed WannaCry recently 
