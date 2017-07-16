@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Ransomware Attacks
 ---
 WannaCry Ransomware Attack 
 =========================
