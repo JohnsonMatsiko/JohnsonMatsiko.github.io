@@ -16,9 +16,9 @@ Because of the amount of big data generated daily, organizations are always look
 
 Uganda, like the rest of world, is aboard this big data train. Many organizations, both non - profit and for profit, collect huge amounts of data on a daily basis. The need to have all this data economically stored is pertinent, and more so is the need to gain enhanced insights into this data. 
 Proper analysis of these largely collected chunks of data can play a huge role in understanding major aspects;
-+ In health – to gain insights into disease outbreaks, maternal care, service delivery, among others, 
-+ In transport – understanding passenger movements so as to focus service delivery, 
-+	In local government – gaining insights into what affects the common man and how to improve service delivery,
++ In health – to gain insights into disease outbreaks, maternal care, service delivery, among others. 
++ In transport – understanding passenger movements so as to focus service delivery. 
++	In local government – gaining insights into what affects the common man and how to improve service delivery.
 +	In the financial sector – to provide analytics on the best candidates for insurance and loans.
 
 In order for Uganda to make headway and compete favourably in these fields, it’s critical that Ugandan universities incorporate data science courses into their curriculum. This is meant to equip as many Ugandans as possible with the necessary skills required to ready themselves of the inevitable future in these two fields.  
